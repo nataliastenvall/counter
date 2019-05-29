@@ -1,0 +1,11 @@
+.footer {
+  background: pink;
+  height: 100px;
+  width: 100vw;
+}
+
+p {
+  text-align: center;
+  padding-top: 40px;
+  margin: 0;
+}

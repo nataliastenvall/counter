@@ -1,0 +1,21 @@
+.main {
+  background: white;
+  height: 300px;
+  width: 100vw;
+}
+
+.round {
+  background-color: orange;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  left: 40%;
+  top: 100px;
+  border-radius: 100%;
+}
+
+.number {
+  font-size: 70px;
+  position: relative;
+  top: 3px;
+}
